@@ -1,0 +1,22 @@
+{
+    "name": "victorhugo/swagger4laravel",
+    "description": "This package integrates SwaggerUI into Laravel 5.",
+    "type": "library",
+    "require": {
+        "zircote/swagger-php": "^2.0"
+    },
+    "license": [
+	"Apache-2.0",
+	"MIT"
+	],
+    "authors": [
+        {
+            "name": "Victor Hugo",
+            "email": "victorhugo.avila.cl@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "support": {
+        "email": "victorhugo.avila.cl@gmail.com"
+    }
+}
